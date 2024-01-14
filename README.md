@@ -1,2 +1,2 @@
 # Blood-Bank
-Created this project For a course of my university 4 months ago. Blood bank is a important thing in life which can help people finding blood. I will update this project to make it more user friendly.
+Developed a user-friendly online platform facilitating blood donation and requests. Users register profiles to either request or donate blood, enhancing accessibility for those in need. The system enables efficient matching of blood groups, streamlining the process of connecting donors with patients in a seamless and effective manner.
